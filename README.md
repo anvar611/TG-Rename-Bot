@@ -6,7 +6,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 **My Features**:
 
 👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
-
+My Creator [Creator](Https://telegam.dog/dont_take_my_username)
 👉 Upload as file from any HTTP link
 
 ### Installation
@@ -31,7 +31,7 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
+* [TG Bots Updates](https://telegram.dog/RB_BotZ)
 * [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
 * [InFoTel Group](https://telegram.dog/InFoTelGroup)
 
